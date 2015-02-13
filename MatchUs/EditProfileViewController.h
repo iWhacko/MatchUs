@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  EditProfileViewController.h
 //  MatchUs
 //
 //  Created by Rhenz on 2/13/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface EditProfileViewController : UIViewController
 
 @end
-
